@@ -7,6 +7,8 @@ import adidasTest.requests.UpdatePetStatus;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
+
+//Run all requests in one place
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         GetAvailablePets.class,
